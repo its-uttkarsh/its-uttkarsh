@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @its-uttkarsh
+- 👋 Hi, I’m Uttkarsh
 - 🌱 I’m currently a student 
 - Learning things via Open Source 
 
