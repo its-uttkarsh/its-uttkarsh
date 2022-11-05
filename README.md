@@ -2,6 +2,7 @@
 - 🌱 I’m currently a student 
 - Learning things via Open Source 
 
+Learning Js/Ts
 
 <!---
 its-uttkarsh/its-uttkarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
