@@ -1,4 +1,4 @@
-### Hi there
+
 
 - 👋 Hi, I’m Uttkarsh
 - 🌱 I’m currently a student 
